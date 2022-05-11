@@ -1,17 +1,7 @@
 {
-	"folders": [
-		{
-			"name": "01-hola-mundo",
-			"path": "..\\01-hola-mundo"
-		},
-		{
-			"name": "03-reforzamiento-js",
-			"path": "..\\03-reforzamiento-js"
-		},
-		{
-			"name": "04-bases-node",
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": ".."
+        }
+    ]
 }
